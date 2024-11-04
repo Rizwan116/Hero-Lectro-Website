@@ -12,8 +12,10 @@ I'm a Website developer...
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
----
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 # Copyright Notice Dont use this code for your personal use
 
---- 
+
